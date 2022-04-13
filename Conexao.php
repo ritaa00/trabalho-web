@@ -1,2 +1,2 @@
 <?php
-    $conn = new PDO("mysql:dbname=clientes;  host=localhost","root",;
+    $conn = new PDO("mysql:dbname=atvv;host=localhost","root","");
